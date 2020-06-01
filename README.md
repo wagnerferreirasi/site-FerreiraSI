@@ -1,4 +1,4 @@
-# siteFerreiraSI
+# site Ferreira S.I
  Site em Bootstrap via NPM e usando SASS
  
  - [X] Criar Navbar
