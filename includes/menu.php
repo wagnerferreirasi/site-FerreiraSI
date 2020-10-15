@@ -3,7 +3,7 @@
     <div class="container">
      <!--  <a class="navbar-brand" href="index.html"><span class="fa fa-laptop"></span>Ferreira S.I</a>
       if logo is image enable this -->  
-    <a class="navbar-brand" href="index.html">
+    <a class="navbar-brand" href="index.php">
         <img src="./assets/images/logo.png" alt="Logo Ferreira S.I" title="Logo Ferreira S.I" style="height:55px;" />
     </a> 
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -14,7 +14,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="index.html">Home</a>
+            <a class="nav-link" href="index.php">Home</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="about.html">Sobre</a>
