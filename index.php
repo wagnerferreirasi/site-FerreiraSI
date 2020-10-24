@@ -9,7 +9,7 @@
     <meta name="description"
         content="Somos uma empresa especializada na prestação de serviços nas áreas de Tecnologia e Internet">
     <meta name="keywords"
-        content="agencia digital, marketing digital, manutenção de notebooks, informatica sorocaba, agencia marketing sorocaba, consultoria em ti, informatica, manutenção de computadores, criação de site, loja virtual, midia kit influencers, gerenciamente de redes sociais, web designer sorocaba, facebook ads, google ads, instagram ads, instagram store, midia kit rede social, suporte em informatica, suporte para empresas, informatica para bares e restaurantes, loja informatica sorocaba, agencia marketing digital seo">
+        content="informatica sorocaba, marketing digital, manutenção de notebooks, agencia digital, agencia marketing sorocaba, consultoria em ti, informatica, manutenção de computadores, criação de site, loja virtual, midia kit influencers, gerenciamente de redes sociais, web designer sorocaba, facebook ads, google ads, instagram ads, instagram store, midia kit rede social, suporte em informatica, suporte para empresas, informatica para bares e restaurantes, loja informatica sorocaba, agencia marketing digital seo">
     <meta name="robots" content="">
     <meta name="revisit-after" content="1 day">
     <meta name="language" content="Portuguese">
